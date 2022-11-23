@@ -1,2 +1,4 @@
 # DigitalImageWatermarking
 Algorithm for Digital Image Watermarking using learnable features of ConvNet
+Description:
+With increasing development of information technology, electronic publishing is becoming more popular, so need for copyright protection has been increased. Digital watermarking or Hiding is used to protect digital data from being altered. Here we embed the information using features of ConvNet (Convolution Neural Network). The cover image is taken in the dataset of ConvNet, trained and converted into some binary pattern. The hidden image is converted to gray scale and then it is embedded using any required operation with cover image. The PSNR, SSI, and NCC values obtained in this research show that the method is imperceptible and robust against signal distortions such as contrast enhancement, gamma correction, image sharpening, Gaussian filter, etc.
